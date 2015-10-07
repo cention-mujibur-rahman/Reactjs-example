@@ -1,0 +1,14 @@
+{
+	"name": "Reactjs components example by using requireJS",
+	"author": "Mujibur Rahman",
+	"main": [
+		"react.js"
+		, "require.js"
+		, "bootstrap"
+	]
+	, "dependencies": {
+		"react": "0.13.3"
+		, "requirejs": "2.1.17"
+		, "bootstrap": "3.3.5"
+	}
+}
